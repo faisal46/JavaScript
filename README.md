@@ -1,2 +1,2 @@
-# jQuery Basic
-jQuery Basic Fundamentals Functionality
+# JavaScript Basic
+JavaScript Basic to Advance Functionality

@@ -1,2 +1,2 @@
-# JavaScript Basic
+# JavaScript Fundamentals
 JavaScript Basic to Advance Functionality

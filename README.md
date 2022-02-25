@@ -1,2 +1,2 @@
-# jquery-fundamental
-This is jQuery Basic function
+# jQuery Fundamentals
+This is jQuery Basic Functionality
